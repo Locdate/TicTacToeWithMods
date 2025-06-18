@@ -2,6 +2,7 @@ STARTS:
 -This game just Tic Tac Toe with some modofication cards that can change game outcome  
 HOW INSTALL GAME:  
 -Install last release .zip file and rearchive it  
+-Enter TicTacToe folder -> bin folder -> Debug folder
 -Run .exe file  
 HOW SET UP CUSTOM THEME IN GAME:  
 -Enter in settings menu  
